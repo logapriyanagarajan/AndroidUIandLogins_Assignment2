@@ -1,3 +1,5 @@
+package sweng888.edu.psu.androiduiandlogin;
+
 import android.content.Context;
 import android.service.autofill.UserData;
 import android.support.annotation.NonNull;
