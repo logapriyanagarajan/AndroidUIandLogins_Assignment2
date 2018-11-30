@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidUI</string>
+
+    <string name="act_login_msg">Login / SignUp</string>
+    <string name="editTextEmail">Email</string>
+    <string name="editTextPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="textview_or">OR</string>
+    <string name="btnSignup">Signup</string>
+
+</resources>

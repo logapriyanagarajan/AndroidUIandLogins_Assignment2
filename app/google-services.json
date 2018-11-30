@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "123576333261",
+    "firebase_url": "https://androiduiandlogin-39ebc.firebaseio.com",
+    "project_id": "androiduiandlogin-39ebc",
+    "storage_bucket": "androiduiandlogin-39ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123576333261:android:b51514087e0a8c51",
+        "android_client_info": {
+          "package_name": "sweng888.edu.psu.androiduiandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123576333261-f4dvqnj6i9h71dt6ciuia9locguj7es2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhDD7cLed4RmNkV6tZggBvIL0KmPsmqX0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
